@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    width: 97%;
+    flex-wrap: wrap;
+    flex-direction:row;
+    border: 1px solid rgb(247, 243, 243);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    background-color: black;
+  }

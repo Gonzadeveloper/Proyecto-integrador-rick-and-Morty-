@@ -1,0 +1,36 @@
+.div{
+    align-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    /* 
+    height: 100vh; esto es para centrar hacia arriba 
+    */
+}
+.form{
+    background-color: black; 
+    border-radius: 10px; 
+    padding: 20px;   
+    text-align: center;
+    border: 0.5px solid white;
+}
+.form label {
+    color: white;
+}
+.form input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.form button {
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
